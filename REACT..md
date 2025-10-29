@@ -42,3 +42,6 @@ export default MyComponent;: This line exports the MyComponent as the default ex
 
 In essence, rafc provides a quick and efficient way to create the basic structure for a new functional React component, saving you from typing out the repetitive boilerplate code manually.
 
+Javascript.
+Typescript.
+
